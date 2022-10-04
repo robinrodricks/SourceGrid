@@ -12,7 +12,8 @@ For more detailed information, Refer to the article at [CodeProject](https://www
 * Visual Studio 2022
 * .Net 4.8
 
-# Changes:
+# Changes
+
 1. Enhancement: Smooth horizontal and vertical scrolling
 2. Enhanced Freeze panes(FixedRow and FixedColumn) and made it independent of Header row\column count
 3. Introduced a boundary(defined by user) to stop auto scrolling
@@ -23,7 +24,11 @@ For more detailed information, Refer to the article at [CodeProject](https://www
 8. Introduced a disabled cell mode
 9. Fixed bugs in clipboard, spanning etc
 
-Refer [Changes_Wiki](https://github.com/siemens/sourcegrid/wiki/Changes) for more information
+# Credits
+
+- Davide Icardi
+- Darius Damalakas
+- [Siemens](https://github.com/siemens/sourcegrid/)
 
 # License
 This project is licensed under the MIT License.
